@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 2, Scene 2](scene-2.md) · [Act 2 contents](README.md) · [Next: Act 2, Scene 4 →](scene-4.md)
+
 *Knocking within. Enter a Porter.*
 
 **PORTER**
@@ -342,4 +344,4 @@ Which steals itself when there’s no mercy left.
 
 ---
 
-[← Act 2 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 2 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[Act 1 contents](README.md) · [Next: Act 1, Scene 2 →](scene-2.md)
+
 *Thunder and Lightning. Enter three Witches.*
 
 **FIRST WITCH**
@@ -52,4 +54,4 @@ Hover through the fog and filthy air.
 
 ---
 
-[← Act 1 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 1 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

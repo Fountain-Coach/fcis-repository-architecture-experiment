@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 1, Scene 4](scene-4.md) · [Act 1 contents](README.md) · [Next: Act 1, Scene 6 →](scene-6.md)
+
 *Enter Macbeth’s Wife, alone, with a letter.*
 
 **LADY MACBETH**
@@ -119,4 +121,4 @@ Leave all the rest to me.
 
 ---
 
-[← Act 1 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 1 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

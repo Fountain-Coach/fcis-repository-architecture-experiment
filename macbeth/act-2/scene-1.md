@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 1, Scene 7](../act-1/scene-7.md) · [Act 2 contents](README.md) · [Next: Act 2, Scene 2 →](scene-2.md)
+
 *Enter Banquo, and Fleance with a torch before him.*
 
 **BANQUO**
@@ -143,4 +145,4 @@ That summons thee to heaven or to hell.
 
 ---
 
-[← Act 2 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 2 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

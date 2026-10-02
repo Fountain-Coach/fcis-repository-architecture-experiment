@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 4, Scene 2](scene-2.md) · [Act 4 contents](README.md) · [Next: Act 5, Scene 1 →](../act-5/scene-1.md)
+
 *Enter Malcolm and Macduff.*
 
 **MALCOLM**
@@ -486,4 +488,4 @@ The night is long that never finds the day.
 
 ---
 
-[← Act 4 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 4 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 3, Scene 5](scene-5.md) · [Act 3 contents](README.md) · [Next: Act 4, Scene 1 →](../act-4/scene-1.md)
+
 *Enter Lennox and another Lord.*
 
 **LENNOX**
@@ -80,4 +82,4 @@ I’ll send my prayers with him.
 
 ---
 
-[← Act 3 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 3 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

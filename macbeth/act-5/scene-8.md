@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 5, Scene 7](scene-7.md) · [Act 5 contents](README.md)
+
 *Enter Macbeth.*
 
 **MACBETH**
@@ -175,4 +177,4 @@ Whom we invite to see us crowned at Scone.
 
 ---
 
-[← Act 5 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 5 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

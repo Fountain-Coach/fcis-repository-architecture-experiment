@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 1, Scene 6](scene-6.md) · [Act 1 contents](README.md) · [Next: Act 2, Scene 1 →](../act-2/scene-1.md)
+
 *Hautboys. Torches. Enter a Sewer and divers Servants with dishes and service over the stage. Then enter Macbeth.*
 
 **MACBETH**
@@ -142,4 +144,4 @@ False face must hide what the false heart doth know.
 
 ---
 
-[← Act 1 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 1 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 2, Scene 1](scene-1.md) · [Act 2 contents](README.md) · [Next: Act 2, Scene 3 →](scene-3.md)
+
 *Enter Lady Macbeth.*
 
 **LADY MACBETH**
@@ -194,4 +196,4 @@ Wake Duncan with thy knocking. I would thou couldst.
 
 ---
 
-[← Act 2 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 2 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

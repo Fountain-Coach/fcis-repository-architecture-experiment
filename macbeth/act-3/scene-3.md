@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 3, Scene 2](scene-2.md) · [Act 3 contents](README.md) · [Next: Act 3, Scene 4 →](scene-4.md)
+
 *Enter three Murderers.*
 
 **FIRST MURDERER**
@@ -112,4 +114,4 @@ Well, let’s away and say how much is done.
 
 ---
 
-[← Act 3 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 3 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

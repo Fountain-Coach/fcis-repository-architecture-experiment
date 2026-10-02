@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 5, Scene 2](scene-2.md) · [Act 5 contents](README.md) · [Next: Act 5, Scene 4 →](scene-4.md)
+
 *Enter Macbeth, the Doctor, and Attendants.*
 
 **MACBETH**
@@ -150,4 +152,4 @@ Profit again should hardly draw me here.
 
 ---
 
-[← Act 5 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 5 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

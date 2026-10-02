@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 1, Scene 5](scene-5.md) · [Act 1 contents](README.md) · [Next: Act 1, Scene 7 →](scene-7.md)
+
 *Hautboys and Torches. Enter King Duncan, Malcolm, Donalbain, Banquo, Lennox, Macduff, Ross, Angus, and Attendants.*
 
 **DUNCAN**
@@ -71,4 +73,4 @@ By your leave, hostess.
 
 ---
 
-[← Act 1 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 1 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

@@ -6,6 +6,10 @@
   <xsl:output method="text" encoding="UTF-8"/>
   <xsl:param name="act"/>
   <xsl:param name="scene"/>
+  <xsl:param name="prev"/>
+  <xsl:param name="prev-label"/>
+  <xsl:param name="next"/>
+  <xsl:param name="next-label"/>
 
   <xsl:template match="/">
     <xsl:apply-templates select="tei:TEI/tei:text/tei:body/tei:div[@type='act' and @n=$act]/tei:div[@type='scene' and @n=$scene]"/>
@@ -17,12 +21,26 @@
 &gt; Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
 </xsl:text>
+    <xsl:call-template name="scene-navigation"/>
+    <xsl:text>
+
+</xsl:text>
     <xsl:apply-templates select="tei:stage|tei:sp"/>
     <xsl:text>
 ---
 
-[← Act </xsl:text><xsl:value-of select="$act"/><xsl:text> index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act </xsl:text><xsl:value-of select="$act"/><xsl:text> contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
 </xsl:text>
+  </xsl:template>
+
+  <xsl:template name="scene-navigation">
+    <xsl:if test="string-length($prev) &gt; 0">
+      <xsl:text>[← </xsl:text><xsl:value-of select="$prev-label"/><xsl:text>](</xsl:text><xsl:value-of select="$prev"/><xsl:text>) · </xsl:text>
+    </xsl:if>
+    <xsl:text>[Act </xsl:text><xsl:value-of select="$act"/><xsl:text> contents](README.md)</xsl:text>
+    <xsl:if test="string-length($next) &gt; 0">
+      <xsl:text> · [</xsl:text><xsl:value-of select="$next-label"/><xsl:text> →](</xsl:text><xsl:value-of select="$next"/><xsl:text>)</xsl:text>
+    </xsl:if>
   </xsl:template>
 
   <xsl:template match="tei:stage">

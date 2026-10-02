@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 2, Scene 4](../act-2/scene-4.md) · [Act 3 contents](README.md) · [Next: Act 3, Scene 2 →](scene-2.md)
+
 *Enter Banquo.*
 
 **BANQUO**
@@ -275,4 +277,4 @@ If it find heaven, must find it out tonight.
 
 ---
 
-[← Act 3 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 3 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

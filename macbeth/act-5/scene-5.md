@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 5, Scene 4](scene-4.md) · [Act 5 contents](README.md) · [Next: Act 5, Scene 6 →](scene-6.md)
+
 *Enter Macbeth, Seyton, and Soldiers, with Drum and Colors.*
 
 **MACBETH**
@@ -107,4 +109,4 @@ At least we’ll die with harness on our back.
 
 ---
 
-[← Act 5 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 5 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

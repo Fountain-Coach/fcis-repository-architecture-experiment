@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 2, Scene 3](scene-3.md) · [Act 2 contents](README.md) · [Next: Act 3, Scene 1 →](../act-3/scene-1.md)
+
 *Enter Ross with an Old Man.*
 
 **OLD MAN**
@@ -126,4 +128,4 @@ That would make good of bad and friends of foes.
 
 ---
 
-[← Act 2 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 2 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 1, Scene 2](scene-2.md) · [Act 1 contents](README.md) · [Next: Act 1, Scene 4 →](scene-4.md)
+
 *Thunder. Enter the three Witches.*
 
 **FIRST WITCH**
@@ -350,4 +352,4 @@ Till then, enough.— Come, friends.
 
 ---
 
-[← Act 1 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 1 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

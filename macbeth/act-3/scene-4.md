@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 3, Scene 3](scene-3.md) · [Act 3 contents](README.md) · [Next: Act 3, Scene 5 →](scene-5.md)
+
 *Banquet prepared. Enter Macbeth, Lady Macbeth, Ross, Lennox, Lords, and Attendants.*
 
 **MACBETH**
@@ -364,4 +366,4 @@ We are yet but young in deed.
 
 ---
 
-[← Act 3 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 3 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

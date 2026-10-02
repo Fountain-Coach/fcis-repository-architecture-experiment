@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 4, Scene 3](../act-4/scene-3.md) · [Act 5 contents](README.md) · [Next: Act 5, Scene 2 →](scene-2.md)
+
 *Enter a Doctor of Physic and a Waiting-Gentlewoman.*
 
 **DOCTOR**
@@ -150,4 +152,4 @@ Good night, good doctor.
 
 ---
 
-[← Act 5 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 5 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

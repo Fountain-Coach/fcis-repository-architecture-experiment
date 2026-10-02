@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 1, Scene 3](scene-3.md) · [Act 1 contents](README.md) · [Next: Act 1, Scene 5 →](scene-5.md)
+
 *Flourish. Enter King Duncan, Lennox, Malcolm, Donalbain, and Attendants.*
 
 **DUNCAN**
@@ -113,4 +115,4 @@ It is a peerless kinsman.
 
 ---
 
-[← Act 1 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 1 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)

@@ -2,6 +2,8 @@
 
 > Source text transcribed from [`macbeth.xml`](../../macbeth.xml). Scene and line structure follows the Folger Digital Texts TEI encoding.
 
+[← Previous: Act 5, Scene 3](scene-3.md) · [Act 5 contents](README.md) · [Next: Act 5, Scene 5 →](scene-5.md)
+
 *Drum and Colors. Enter Malcolm, Siward, Macduff, Siward’s son, Menteith, Caithness, Angus, and Soldiers, marching.*
 
 **MALCOLM**
@@ -66,4 +68,4 @@ Towards which, advance the war.
 
 ---
 
-[← Act 5 index](README.md) · [Macbeth source index](../README.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
+[Act 5 contents](README.md) · [Macbeth source index](../README.md) · [Dramatis personae](../dramatis-personae.md) · [Systemic report](../../MACBETH_SYSTEMIC_CHARACTER_BASELINE.md)
